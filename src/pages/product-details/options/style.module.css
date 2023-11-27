@@ -1,0 +1,32 @@
+.menu {
+    color: #ADAEB1;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.active {
+    color: #E4002B;
+    font-size: 14px;
+    font-weight: bold;
+    background: #FEF2F4;
+    padding: 0.8rem 0.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.container {
+    height: 56px;
+    background: #fff;
+    display: flex;
+    padding: 0rem 0rem 0rem 0rem;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.menuContainer {
+    padding: 0 1rem;
+}

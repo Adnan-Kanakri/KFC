@@ -1,0 +1,44 @@
+.imageContainer {
+    display: block;
+    position: relative;
+    bottom: 1.5rem;
+    height: auto;
+    width: 220px;
+    height: 165px;
+}
+
+.imageStyle {
+    width: 220px;
+    height: 165px;
+    object-fit: fill;
+}
+
+.cardContainer {
+    padding: 27px 4px 27px 30px;
+}
+
+.title {
+    color: #393F52;
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.after::after {
+    width: 32%;
+    content: '';
+    display: block;
+    border-bottom: 4px solid #2F6605;
+    margin: 0.5rem auto auto auto;
+    border-radius: 11px;
+}
+
+.divCard {
+    border-radius: 56%;
+    background-color: #E2EBF4;
+    width: 30px;
+    height: 28px;
+    position: relative;
+    top: 2rem;
+}

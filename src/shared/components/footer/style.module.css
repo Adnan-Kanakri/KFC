@@ -1,0 +1,40 @@
+.footer {
+    background: #393F52;
+    width: 100%;
+    padding: 2rem 0;
+}
+
+.description {
+    color: #ADAEB1;
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    width: 40%;
+}
+
+
+.fontMenu {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 55px;
+}
+
+.iconStyle {
+    color: #fff;
+}
+
+.copyRightFont {
+    color: #ADAEB1;
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bolder;
+}

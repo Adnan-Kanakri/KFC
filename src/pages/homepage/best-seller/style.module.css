@@ -1,0 +1,25 @@
+.commentSliderDisplay {
+    padding: 15px 0;
+}
+
+.titlePosition {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 8px;
+}
+
+.title {
+    color: #393F52;
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.title::after {
+    width: 32%;
+    content: '';
+    display: block;
+    border-bottom: 3px solid #E4002B;
+    margin-bottom: 0.5rem;
+}

@@ -1,0 +1,54 @@
+.backGround {
+    background: #F1F3F6;
+    width: 100%;
+    padding: 3rem 2rem;
+}
+
+.listContainer {
+    padding: 0 2rem;
+}
+
+.shape {
+    width: 14px;
+    height: 16px;
+    background: #E4002B;
+    margin: 0 3px;
+}
+
+
+.title {
+    display: block;
+    text-align: center;
+    color: #393F52;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.colContainer {
+    background: #F5FAFF;
+    border-radius: 10px 10px 0px 0px;
+    padding: 0 1rem
+}
+
+.imageContainer {
+    display: block;
+    height: auto;
+    padding: 1rem 0;
+    width: 200px;
+    text-align: center;
+}
+
+.imageStyle {
+    width: 200px;
+    object-fit: fill;
+}
+
+.cardContainer {
+    padding: 60px 4px 27px 30px;
+    margin: 3rem 0
+}
+
+.ground {
+    background: #fff;
+}

@@ -1,0 +1,11 @@
+.imageStyle {
+    width: 222px;
+    height: 300px;
+    object-fit: fill;
+}
+
+.imageContainer {
+    display: block;
+    width: 222px;
+    height: 300px;
+}

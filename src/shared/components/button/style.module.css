@@ -1,0 +1,35 @@
+.headerButton {
+    background: #FEF2F4;
+    border: 1px solid #E4002B;
+    border-radius: 10px;
+}
+
+.headerFontStyle {
+    color: #E4002B;
+}
+
+
+.cardButton {
+    width: 80%;
+    background: #F0F4FA;
+    border-radius: 8px;
+    height: 37px !important;
+}
+
+.title {
+    color: #393F52;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.modalButton {
+    width: 90%;
+    border-radius: 8px;
+    height: 40px !important;
+}
+
+
+.modalButtonTitle {
+    color: #fff;
+    font-weight: bold;
+}

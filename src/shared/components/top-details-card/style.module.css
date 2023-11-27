@@ -1,0 +1,51 @@
+.imageContainer {
+    display: block;
+    position: relative;
+    bottom: 8rem;
+    height: auto;
+    width: 220px;
+    height: 220px;
+}
+
+.imageStyle {
+    width: 220px;
+    height: 220px;
+    object-fit: fill;
+}
+
+.cardContainer {
+    padding: 60px 4px 27px 30px;
+    margin: 3rem 0
+}
+
+.title {
+    color: #393F52;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.description {
+    color: #6A6E8E;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.position {
+    position: relative;
+    bottom: 8.5rem;
+}
+
+.changeMargin {
+    margin: 17px 0;
+}
+
+.setHeight {
+    height: 252px !important;
+}
+
+.icon {
+    color: #E4002B;
+    cursor: pointer;
+}
